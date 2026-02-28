@@ -15,7 +15,7 @@ const Index = () => {
               Dominujte Miestne Vyhľadávanie: Dostaňte Vašu Firmu do Top 3 v Bratislave
             </h1>
             <p className="mx-auto mb-8 max-w-3xl text-lg text-primary-foreground/90 sm:text-xl">
-              Potrebujete sa nachádzať prvej trojke rebríčka Google Business, kde sa uskutočňuje 75% kliknutí. Kým vaši konkurenti zápasia s neaktuálnymi stratégiami, my sme vyvinuli systematický prístup, ktorý vám zaručí umiestnenie v prvej trojke rebríčka do 90 dní. Náš balík optimalizácie GBP kombinuje konkurenčné informácie, strategické riadenie citácií a vlastné techniky, o ktorých väčšina agentúr ani nevie, že existujú. Toto je váš plán na dosiahnutie dominancie v lokálnom vyhľadávaní.
+              Potrebujete sa nachádzať TOP 3 na Google, kde sa uskutočňuje 75% kliknutí. Kým vaši konkurenti zápasia s neaktuálnymi stratégiami, my sme vyvinuli systematický prístup, ktorý vám zaručí umiestnenie v TOP 3 Google vyhladávania do 90 dní. Náš balík optimalizácie GBP kombinuje konkurenčné informácie, strategické riadenie citácií a vlastné techniky, o ktorých väčšina agentúr ani nevie, že existujú. Toto je váš plán na dosiahnutie dominancie v lokálnom vyhľadávaní.
 
 
 
