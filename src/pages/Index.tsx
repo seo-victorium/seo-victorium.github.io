@@ -83,7 +83,7 @@ const Index = () => {
               Náš systém konkurenčného spravodajstva: Viete to, čo vaši konkurenti nevedia
             </h2>
             <p className="mx-auto max-w-3xl text-lg text-muted-foreground">
-              Väčšina firiem optimalizuje naslepo a háda, čo by mohlo fungovať. My používame vlastnú technológiu LeadSnap na vykonávanie hlbokej konkurenčnej analýzy, ktorá odhaľuje, čo presne robia vaši najlepší konkurenti správne a, čo je ešte dôležitejšie, kde sú zraniteľní. Nie je to povrchný výskum. Analyzujeme ich profily Google Business na úrovni služieb, skúmame každú kategóriu, každý príspevok, každý vzor odpovede na recenziu a každý obsah, ktorý publikujú. Ale nezostávame len pri ich profiloch. Kontrolujeme ich webové stránky z hľadiska lokálnych SEO signálov, skúmame ich citácie v stovkách adresárov a identifikujeme medzery v ich stratégii, ktoré môžete využiť. Keď zistíme, že váš konkurent má dobré umiestnenie v rebríčku „havarijný servis Bratislava“, ale nie je optimalizovaný pre „24-hodinový havarijný servis v Bratislave“, je to príležitosť. Keď zistíme, že zanedbali možnosti citácií v adresároch špecializovaných odvetví, okamžite to využijeme.
+              Väčšina firiem optimalizuje naslepo a háda, čo by mohlo fungovať. My používame vlastnú technológiu LeadSnap na vykonávanie hlbokej konkurenčnej analýzy, ktorá odhaľuje, čo presne robia vaši najlepší konkurenti správne a, čo je ešte dôležitejšie, kde sú zraniteľní. Nie je to povrchný výskum. Analyzujeme ich profily Google Business na úrovni služieb, skúmame každú kategóriu, každý príspevok, každý vzor odpovede na recenziu a každý obsah, ktorý publikujú. Ale nezostávame len pri ich profiloch. Kontrolujeme ich webové stránky z hľadiska lokálnych SEO signálov, skúmame ich citácie v stovkách adresárov a identifikujeme nedostatky v ich stratégii, ktoré môžete využiť. Keď zistíme, že váš konkurent má dobré umiestnenie v rebríčku „havarijný servis Bratislava“, ale nie je optimalizovaný pre „24-hodinový havarijný servis v Bratislave“, je to príležitosť. Keď zistíme, že zanedbali možnosti citácií v adresároch špecializovaných odvetví, okamžite to využijeme.
             </p>
           </div>
           <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
@@ -122,7 +122,7 @@ const Index = () => {
                 <Award className="h-6 w-6 text-primary" />
               </div>
               <div className="mb-2 text-xl font-semibold text-foreground">04</div>
-              <h3 className="mb-2 text-lg font-bold text-foreground">Identifikácia Medzier</h3>
+              <h3 className="mb-2 text-lg font-bold text-foreground">Identifikácia Nedostatkov</h3>
               <p className="text-muted-foreground">
                 Strategické príležitosti, kde môžete prekonať konkurentov cez cielenú optimalizáciu
               </p>
